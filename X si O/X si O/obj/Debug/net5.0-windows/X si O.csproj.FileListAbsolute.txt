@@ -1,0 +1,18 @@
+C:\Users\Achim\source\repos\X si O\X si O\bin\Debug\net5.0-windows\X si O.exe
+C:\Users\Achim\source\repos\X si O\X si O\bin\Debug\net5.0-windows\X si O.deps.json
+C:\Users\Achim\source\repos\X si O\X si O\bin\Debug\net5.0-windows\X si O.runtimeconfig.json
+C:\Users\Achim\source\repos\X si O\X si O\bin\Debug\net5.0-windows\X si O.runtimeconfig.dev.json
+C:\Users\Achim\source\repos\X si O\X si O\bin\Debug\net5.0-windows\X si O.dll
+C:\Users\Achim\source\repos\X si O\X si O\bin\Debug\net5.0-windows\ref\X si O.dll
+C:\Users\Achim\source\repos\X si O\X si O\bin\Debug\net5.0-windows\X si O.pdb
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.csproj.AssemblyReference.cache
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X_si_O.Form1.resources
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.csproj.GenerateResource.cache
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.AssemblyInfoInputs.cache
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.AssemblyInfo.cs
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.csproj.CoreCompileInputs.cache
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.dll
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\ref\X si O.dll
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.pdb
+C:\Users\Achim\source\repos\X si O\X si O\obj\Debug\net5.0-windows\X si O.genruntimeconfig.cache
